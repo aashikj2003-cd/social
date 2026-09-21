@@ -4,8 +4,8 @@
 SocialEngineer - Social Engineering Toolkit
 -------------------------------------------
 
-Author      : Karthikeyan (https://karthithehacker.com)
-GitHub      : https://github.com/karthi-the-hacker
+Author      : TEAM PPS
+GitHub      : 
 Project     : SocialEngineer - An all-in-one CLI framework for social engineering
 
 License     : Open-source — strictly for educational and ethical hacking purposes ONLY.
