@@ -84,7 +84,7 @@ Social-Engineer/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/karthi-the-hacker/SocialEngineer.git
+git clone https://github.com/aashikj2003-cd/social.git
 cd SocialEngineer
 
 ```
