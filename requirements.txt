@@ -1,0 +1,6 @@
+requests
+dnspython
+rich
+colorama
+stem
+pysocks
